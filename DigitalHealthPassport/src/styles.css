@@ -1,1 +1,66 @@
 /* You can add global styles to this file, and also import other style files */
+
+.control-group{
+    margin-left: 280px;
+    margin-top: 110px;
+}
+
+.login-form{
+    max-width: 1150px;
+  width: 80%;
+  background-color: gainsboro;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    margin-left: 180px;
+}
+
+body{
+    height: 100vh;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background: lightblue;
+}
+
+.login-header{
+    margin-left:20px;
+}
+
+.login{
+    color:blue;
+    margin-top: 50px;
+    margin-left: 365px;
+}
+
+.control-group-pass{
+    margin-left: 275px;
+    margin-top: 30px;
+}
+
+.control-group-submit{
+    margin-left: 285px;
+    margin-top: 80px;
+}
+.submit{
+    margin-left: 135px;
+}
+
+.forgot-pass{
+    color: red;
+    margin-left: 100px;
+}
+
+.invalid-feedback{
+    margin-top: 10px;
+    margin-left: 110px;
+}
+
+.hyper{
+    margin-right: 10px;
+    color:red;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
