@@ -1,0 +1,92 @@
+.control-group{
+    margin-left: 280px;
+    margin-top: 110px;
+}
+
+
+
+.login-form{
+    max-width: 1150px;
+  width: 100%;
+  background-color: gainsboro;
+  padding: 15px 30px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    margin-left: 180px;
+}
+
+.login-header{
+    margin-left:65px;
+}
+
+.invalid-feedback{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.passValid{
+    margin-right: 80px;
+}
+
+.control-group-organization{
+    margin-left: 295px;
+    margin-top: 30px;
+}
+
+.control-group-phonenumber{
+    margin-left: 332px;
+    margin-top: 30px;
+}
+
+.login{
+    color:blue;
+    margin-top: 50px;
+    margin-left: 365px;
+}
+
+.control-group-pass{
+    margin-left: 368px;
+    margin-top: 30px;
+}
+
+body{
+    height: 100vh;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background: lightblue;
+}
+
+.control-group-submit{
+    margin-left: 380px;
+    margin-top: 50px;
+}
+
+.control-group-confpass{
+    margin-left: 307px;
+    margin-top: 30px;
+}
+
+.check{
+    margin-top:15px;
+    margin-left: 380px;
+}
+
+.form-check1{
+    margin-left: 120px;
+}
+
+.submit{
+    margin-left: 135px;
+}
+
+.forgot-pass{
+    color: red;
+    margin-left: 305px;
+}
+
+.hyper{
+    margin-right: 10px;
+    color:red;
+}
